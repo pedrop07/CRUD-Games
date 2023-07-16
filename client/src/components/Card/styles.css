@@ -5,6 +5,7 @@
     border-radius: 4px;
     font-family: monospace;
     cursor: pointer;
+    height: 100%;
 }
 
 .card--container:hover{
